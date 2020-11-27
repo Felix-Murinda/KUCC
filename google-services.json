@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "766157710317",
+    "firebase_url": "https://missal-34e85.firebaseio.com",
+    "project_id": "missal-34e85",
+    "storage_bucket": "missal-34e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766157710317:android:9322b4c25dcc428c10fde4",
+        "android_client_info": {
+          "package_name": "com.example.calcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766157710317-lpps3bl9jgupc8mukj20j0ed2svphpiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_YRmdLjeuZQBXEVaYA_fEPwv0Rc6QMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766157710317-lpps3bl9jgupc8mukj20j0ed2svphpiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766157710317:android:aa7398a4f4358a2f10fde4",
+        "android_client_info": {
+          "package_name": "com.example.kucatholic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766157710317-lpps3bl9jgupc8mukj20j0ed2svphpiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_YRmdLjeuZQBXEVaYA_fEPwv0Rc6QMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766157710317-lpps3bl9jgupc8mukj20j0ed2svphpiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+
+
+
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:contentDescription="@string/kucc"/>
+    <TextView
+        android:layout_width="190dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginLeft="100dp"
+        android:text="@string/kucc"
+        android:textColor="@android:color/background_dark"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:gravity="top"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageButton
+                android:id="@+id/image1"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/SC" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+
+            <ImageButton
+                android:id="@+id/image2"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+
+                android:contentDescription="@string/gro" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+
+            <ImageButton
+                android:id="@+id/image3"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@mipmap/missal"
+                android:contentDescription="@string/missal" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+            <ImageButton
+                android:id="@+id/image4"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/myd" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+
+
+
+            <ImageButton
+                android:id="@+id/image5"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/news" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+
+            <ImageButton
+                android:id="@+id/image6"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/med" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+
+            <ImageButton
+                android:id="@+id/image7"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/myd" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+            <ImageButton
+                android:id="@+id/image8"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/myd" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro"/>
+
+            <ImageButton
+                android:id="@+id/image9"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/chat" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="10dp"
+                android:contentDescription="@string/gro" />
+            <ImageButton
+                android:id="@+id/image10"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/abt" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</RelativeLayout>
